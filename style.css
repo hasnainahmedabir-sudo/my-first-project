@@ -43,6 +43,7 @@ font-weight: 600;
 line-height: 100%;
 letter-spacing: 0%;
 text-align: center;
+margin-top: 25px;
 
 }
 .btn-3{
@@ -199,4 +200,73 @@ gap: 24;
 .my-project{
     display: flex;
     margin-top: 60px;
+}
+.home{
+    background-image: url(assets/handshake.jpg);
+    
+    gap: 32;
+    padding: 64px 40px 60px 40px;
+    border-radius: 16px;
+    margin-top: 100px;
+    margin-left: 50px;
+    align-items: center;
+    width: 750px;
+    height: 200px;
+   
+   
+}
+.ip{
+    color: rgba(255, 255, 255, 1);
+font-size: 32px;
+font-weight: 700;
+line-height: 36px;
+text-align: center;
+}
+.ipv3{
+    color: rgba(255, 255, 255, 1);
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+text-align: center;
+opacity: 0.7;
+}
+.tex{
+width: 340px;
+height: 30px;
+align-items: center;
+gap: 10;
+padding: 11px 14px 12px 14px;
+border-radius: 8px;
+font-size: 16px;
+font-weight: 400;
+line-height: 100%;
+text-align: center;
+color: rgba(13, 19, 33, 0.4);
+margin-left: 50px;
+
+}
+.sub{
+width: 120px;
+height: 57px;
+padding: 15px 12px 15px 12px;
+border-radius: 8px;
+color: rgba(13, 19, 33, 1);
+font-size: 16px;
+font-weight: 600;
+line-height: 100%;
+text-align: center;
+
+}
+.sec-5{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 100px;
+    margin-left: 40px;
+    background: rgba(13, 19, 33, 0.03);
+}
+.xx{
+    gap: 24;
+    width: 157.01px;
+     height: 36px;  
+    margin-left: 200px;
 }
